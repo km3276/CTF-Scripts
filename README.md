@@ -1,6 +1,6 @@
 # CTF Scripts
 
-Small utility scripts for CTFs and lab environments (HTB / Proving Grounds).
+Small utility scripts for CTFs and lab environments.
 
 For educational and authorized testing only.
 
@@ -24,6 +24,7 @@ Enables RDP and grants a specified user remote access.
 **Configure**
 ```bat
 set USERNAME=dave
+```
 
 ### shared_lib_privesc.sh
 
