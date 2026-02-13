@@ -36,3 +36,7 @@ Compiles a malicious shared library that automatically creates a SUID root shell
 /tmp/sh -p
 ```
 
+### suid_root_shell.c
+
+Small SUID root shell launcher
+
