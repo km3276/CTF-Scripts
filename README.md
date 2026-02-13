@@ -31,5 +31,8 @@ set USERNAME=dave
 Compiles a malicious shared library that automatically creates a SUID root shell when loaded by a privileged process.
 - Copies /bin/sh to /tmp/sh
 - Sets SUID bit
-- Root shell: /tmp/sh -p
+- Root shell:
+```bat 
+/tmp/sh -p
+```
 
