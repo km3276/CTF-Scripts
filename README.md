@@ -1,7 +1,6 @@
 # CTF Scripts
 
 Small utility scripts for CTFs and lab environments.
-
 For educational and authorized testing only.
 
 ---
