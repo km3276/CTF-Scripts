@@ -41,4 +41,4 @@ Small SUID root shell launcher
 
 ### wintools.bat
 
-Mass download of Windows exploitation tools hosted on a Python HTTP Server
+Mass download of Windows exploitation tools hosted on a Python HTTP Server. Uses built-in Windows utility certutil to bypass Powershell restrictions and AMSI
