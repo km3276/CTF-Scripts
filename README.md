@@ -40,3 +40,6 @@ Compiles a malicious shared library that automatically creates a SUID root shell
 
 Small SUID root shell launcher
 
+### wintools.bat
+
+Mass download of Windows exploitation tools hosted on a Python HTTP Server
