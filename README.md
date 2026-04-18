@@ -42,3 +42,7 @@ Small SUID root shell launcher
 ### wintools.bat
 
 Mass download of Windows exploitation tools hosted on a Python HTTP Server. Uses built-in Windows utility certutil to bypass Powershell restrictions and AMSI
+
+### save_registry_hives.bat
+
+Prompts the user for a destination folder and sequentially saves critical Windows registry hives (SYSTEM, SAM, SECURITY) to that location after validating the path.
